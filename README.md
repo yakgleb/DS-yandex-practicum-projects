@@ -1,2 +1,2 @@
-# yandex-practicum-projects
+# Yandex.Practicum Data Science проекты
 Репозиторий моих проектов, выполненных в рамках обучения на "Яндекс Практикум"
